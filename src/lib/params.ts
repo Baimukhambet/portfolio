@@ -96,7 +96,7 @@ export const SKILLS: SkillsPageParams = {
 
 export const RESUME: ResumePageParams = {
 	title: 'Resumé',
-	item: ''
+	item: 'baimukhambet-cv.pdf'
 };
 
 export const SEARCH: SearchPageParams = {

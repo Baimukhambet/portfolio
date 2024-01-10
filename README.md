@@ -18,3 +18,5 @@ Before deploying to `GitHub Pages`:
 ## Known issues:
 
 - Svelte no longer support `node 14`, use a newer version instead.
+
+- Why not working `:(`

@@ -1,11 +1,11 @@
 export enum Platform {
 	GitHub = 'github',
-	StackOverflow = 'stackoverflow',
-	Twitter = 'twitter',
+	// StackOverflow = 'stackoverflow',
+	// Twitter = 'twitter',
 	Linkedin = 'linkedin',
 	Email = 'email',
-	Facebook = 'facebook',
-	Youtube = 'youtube'
+	// Facebook = 'facebook',
+	// Youtube = 'youtube'
 }
 
 export enum ContractType {
